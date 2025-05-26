@@ -1,5 +1,5 @@
 # ⌨️ Typing Speed Test
-
+Live link : https://typingtestehte.netlify.app
 A lightweight, browser-based application to measure and improve your typing speed and accuracy across different difficulty levels.
 
 ## Features
